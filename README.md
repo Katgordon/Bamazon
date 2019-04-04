@@ -1,0 +1,2 @@
+# Bamazon
+Homework assigment
